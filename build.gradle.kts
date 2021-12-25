@@ -1,5 +1,5 @@
 
-group = "com.psinder.pipelinr"
+group = "com.szastarek"
 version = "0.0.1-SNAPSHOT"
 
 plugins {
